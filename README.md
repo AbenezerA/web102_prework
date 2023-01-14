@@ -2,7 +2,7 @@
 
 Submitted by: **Abenezer Amanuel**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Loch Funding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **8** hours spent in total
 
